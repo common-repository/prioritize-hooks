@@ -1,0 +1,16 @@
+#prioritize-hooks .form-table tr {
+	width: auto;
+}
+
+#prioritize-hooks .form-table input {
+	text-align: center;
+	font-weight: bold;
+}
+
+#prioritize-hooks .form-table .prioritized {
+	background-color: lightgreen;
+}
+
+#prioritize-hooks .form-table .disabled {
+	background-color: tomato;
+}
